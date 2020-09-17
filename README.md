@@ -1,4 +1,4 @@
-# NLP - Text cleaning and processing pipeline.
+# NLP - Text cleaning and preprocessing pipeline.
 
 ## Text processing pipeline for NLP problems with ready-to-use functions and text classification models.
 Code file environment - Jupyter notebook
